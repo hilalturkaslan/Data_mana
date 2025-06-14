@@ -1,1 +1,1 @@
-data management case
+data management case study
