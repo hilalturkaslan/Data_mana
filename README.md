@@ -1,1 +1,1 @@
-data management case study done
+data management for ai case study 
