@@ -1,1 +1,1 @@
-data management importent for ai case study 
+data management information for ai case study 
