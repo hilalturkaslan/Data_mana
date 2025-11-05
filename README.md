@@ -1,1 +1,1 @@
-data management information for is a sample ai case study 
+data management information for is a sample do it ai case study 
