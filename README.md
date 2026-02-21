@@ -1,1 +1,1 @@
-data management information for is done make ai case study 
+data management information for is done make data in case study 
