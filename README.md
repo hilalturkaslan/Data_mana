@@ -1,1 +1,1 @@
-data management information for is done make data in case study 
+data for management data is done make case study 
