@@ -1,1 +1,1 @@
-data for management data is done make case study 
+data for wisdom data management is done make case study 
