@@ -1,1 +1,1 @@
-data for wisdom data management is done make case study 
+data imported for make wisdom data management. because data is always clean and understandly 
