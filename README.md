@@ -1,2 +1,2 @@
 Managing data is always important, especially for using data to gain wisdom. This requires data to go through certain stages. To manage data, you need to understand what that data means. AI literacy will also be an asset for the study. It is necessary to create a data pipeline. Data cleaning, data analysis, and data visualization are key considerations for data management.
-Power BI can be used to visualize data management.
+Power BI can be used to visualize data management. Understanding the data on the dashboard is simplified.
