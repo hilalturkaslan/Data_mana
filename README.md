@@ -10,5 +10,6 @@ Data can become meaningful with a data-oriented approach.
 Because in Power BI simply displaying data in tables and graphs without understanding the data is pointless for data management. 
 Power BI inside square upload data.
 Power BI offers various methods for loading data.
-For data management, the data can be edited without loading it. Power BI makes it possible to use different data sources within the same system and to perform cleaning and editing operations on this data. 
+For data management, the data can be edited without loading it.
+Power BI makes it possible to use different data sources within the same system and to perform cleaning and editing operations on this data. 
 
