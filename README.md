@@ -12,4 +12,3 @@ Power BI inside square upload data.
 Power BI offers various methods for loading data.
 For data management, the data can be edited without loading it.
 Power BI makes it possible to use different data sources within the same system and to perform cleaning and editing operations on this data.
-
